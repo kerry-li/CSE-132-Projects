@@ -1,0 +1,46 @@
+CSE132 Standard Cover Page
+
+By submitting this assignment, you certify that you have read, understood,
+and complied with the CSE 132 Collaboration Policy.
+
+You are also certifying that the following information is complete and truthful.
+
+Name: Kerry Li
+Email Address: kerryli@wustl.edu
+Lab Section: CSE Lab Section B
+
+CSE132 Lab 2
+
+Challenge level of this assignment (1 = very easy; 10 = very challenging): 5
+Learning value of this assignment (1 = didn't learn anything; 10 = learned a lot): 10
+
+Check one of the following:
+
+[X] I worked on this lab entirely on my own, with help only from the TAs and the instructor.
+
+[ ] I received help from the following people or sources (other than the TAs or instructor).
+
+    List names here:
+    
+    
+[ ] I completed this lab using pair programming techniques with the following CSE 132 student.
+
+    Name of partner:
+    
+How well is the timing specification met with your original program?
+
+Using millis(), I recorded that each run through loop() takes 1.003 seconds, or 3 milliseconds too long.
+
+
+What happens when you double filterSize?
+
+After doubling filterSize, each loop() takes between 1.003 and 1.004 seconds.
+
+What is the file name of your graph image?
+
+"oldTiming.numbers" is the plot for the old timinig method
+"betterTiming.numbers' is the plot using better timing
+"Plot.java" contains the code for the program that also plots the better timing method
+
+If there is anything else we should know about your work on this assignment,
+please explain here:
